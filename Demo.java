@@ -1,6 +1,5 @@
 // Online Java Compiler
 // Use this editor to write, compile and run your Java code online
-// code to only display the lowercase from a given string and its size also
 class Demo {
     public static void main(String[] args) {
         System.out.println("Try programiz.pro");
